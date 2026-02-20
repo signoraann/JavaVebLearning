@@ -1,3 +1,4 @@
+package lesson3;
 public class UserInfo {
 	public static void main(String[] args){
 		String name = "Ann";
