@@ -1,0 +1,17 @@
+What is a folder on your computer (OS-level)?
+A folder is a tool which help me organize all files the way what i need/want.
+
+What is a package in Java (language-level)?
+Package is a logical grouping of classes and interfaces in Java.
+
+Why do packages exist?
+Packages help to organize code and avoid conflicts.
+
+What problems do packages solve that folders alone cannot?
+Folders just store files and packages organize the structure of code. 
+
+Why do Java projects usually require the folder structure to mirror the package name (e.g., com.myapp.utils -> com/myapp/utils)?
+Cause if the folder structure wouldn't matсh the package name, copmpiler won't be able to find files.
+
+What kind of error or conceptual issue happens when they don’t match?
+The compile won't see files and return the error that such package doesn't excist. The name of package should completely match with adress of files.
